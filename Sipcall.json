@@ -1,0 +1,46 @@
+[
+    {
+        "ConName": "TaxiService",
+        "Img": "weekly_icon.png",
+        "Contact": "+8122552551",
+        "Lang_ID": "TaxiService",
+        "Info_ID": 3,
+        "ShortCode": null
+    },
+    {
+        "ConName": "LaundryService",
+        "Img": "events.png",
+        "Img1": "Reception",
+        "Contact": "+8125566725",
+        "Lang_ID": "LaundryService",
+        "Info_ID": 4,
+        "ShortCode": null
+    },
+    {
+        "ConName": "Reception",
+        "Img": "events.png",
+        "Img1": "Reception",
+        "Contact": "+8125566725",
+        "Lang_ID": "Reception",
+        "Info_ID": "4",
+        "ShortCode": null
+    },
+    {
+        "ConName": "F&B",
+        "Img": "events.png",
+        "Img1": "Reception",
+        "Contact": "+8125566725",
+        "Lang_ID": "F&B",
+        "Info_ID": 4,
+        "ShortCode": null
+    },
+    {
+        "ConName": "HelpLine",
+        "Img": "events.png",
+        "Img1": "Reception",
+        "Contact": "+8125566725",
+        "Lang_ID": "HelpLine",
+        "Info_ID": 4,
+        "ShortCode": null
+    }
+]
